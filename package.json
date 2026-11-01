@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "engines": {
+    "node": "24.x"
+  },
+  "private": true,
+  "version": "0.2.0",
+  "dependencies": {
+    "pg": "^8.23.1",
+    "helmet": "^8.3.0",
+    "express": "^5.3.0"
+  },
+  "name": "new-creation-runtime",
+  "type": "module"
+}
